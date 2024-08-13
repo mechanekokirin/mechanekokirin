@@ -1,2 +1,3 @@
 print("miau)
-malo
+malo 2
+
