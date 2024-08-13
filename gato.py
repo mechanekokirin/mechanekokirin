@@ -1,2 +1,2 @@
 print("miau)
-bueno
+bueno 1
